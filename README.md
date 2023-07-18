@@ -1,11 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanasiri Premasathira, or you can call me Richy
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanasiri Premasathira, you can call me Richy
 ========================================================================================================================================================================
 
 Hello! I'm a computer engineering graduate from Chiang Mai University. I love working on backend development, especially creating APIs. My favorite programming language is C#. If you're looking for a backend developer who loves working on C#, I would be happy to help you with your projects. Let's work together and create some amazing software!
 
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [slrlwtb2@gmail.com](mailto:slrlwtb2@gmail.com)
-* 🧠  I'm learning ASP.NET Framework
+* 🎓 Computer engineering
+* 🧠  TOEIC score : 500
+* 🌍  I'm based in Bangkok
+* ✉️  You can contact me at [slrlwtb2@gmail.com](mailto:slrlwtb2@gmail.com)
+
 
 ### Skills
 
