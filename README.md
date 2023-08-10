@@ -8,7 +8,7 @@ Hello! I'm a new graduate student from Chiang Mai University, specializing in Co
  - 🎓 Bachelor's degree in Computer Engineering
  - 🧠 TOEIC score: 875
  - 🌍 Currently based in Bangkok
- - ✉️ Feel free to contact me at slrlwtb2@gmail.com
+ - ✉️ Feel free to contact me at thanasiri.pre@gmail.com
 
 ### Skills
 
